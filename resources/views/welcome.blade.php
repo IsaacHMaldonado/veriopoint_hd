@@ -9,7 +9,7 @@
 	<link rel="pingback" href="https://veriopoint.com/xmlrpc.php" />
 
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-<title>Veriopoint &#8211; Somos expertos en la integración de Soluciones de Tecnologías de la información</title>
+<title>Veriopoint HN</title>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -179,8 +179,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
           <div id="logo" class="flex-col logo">
             
 <!-- Header logo -->
-<a href="https://veriopoint.com/" title="Veriopoint - Somos expertos en la integración de Soluciones de Tecnologías de la información" rel="home">
-		<img width="820" height="1000" src="https://veriopoint.com/wp-content/uploads/2022/09/logo-color-veriopoint.png" class="header_logo header-logo" alt="Veriopoint"/><img  width="820" height="996" src="https://veriopoint.com/wp-content/uploads/2022/09/logo-white-veriopoint.png" class="header-logo-dark" alt="Veriopoint"/></a>
+<a href="https://veriopointhn.com" title="Veriopoint - Somos expertos en la integración de Soluciones de Tecnologías de la información" rel="home">
+		<img width="820" height="1000" src="{{asset('images/veriopoint.png')}}" class="header_logo header-logo" alt="Veriopoint"/><img  width="820" height="996" src="{{asset('images/veriopoint.png')}}" class="header-logo-dark" alt="Veriopoint"/></a>
           </div>
 
           <!-- Mobile Left Elements -->
@@ -208,11 +208,12 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14 menu-item-design-default"><a href="#soluciones" class="nav-top-link">Nuestra Tecnología</a></li>
 <li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15 menu-item-design-default"><a href="#servicios" class="nav-top-link">Servicios</a></li>
 <li id="menu-item-195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195 menu-item-design-default"><a href="#certificaciones" class="nav-top-link">Certificaciones</a></li>
+<li id="menu-item-195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195 menu-item-design-default"><a href="#clientes" class="nav-top-link">Nuestros Clientes</a></li>
 <li class="header-contact-wrapper">
 		<ul id="header-contact" class="nav nav-divided nav-uppercase header-contact">
 		
 						<li class="">
-			  <a href="mailto:info@veriopoint.com" class="tooltip" title="info@veriopoint.com">
+			  <a href="mailto:Informacion@hubsit.com" class="tooltip" title="Informacion@hubsit.com">
 				  <i class="icon-envelop" style="font-size:16px;"></i>			       <span>
 			       				       </span>
 			  </a>
@@ -231,7 +232,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		<i class="icon-search" style="font-size:16px;"></i></a>
 			
 	<div id="search-lightbox" class="mfp-hide dark text-center">
-		<div class="searchform-wrapper ux-search-box relative form-flat is-large"><form method="get" class="searchform" action="https://veriopoint.com/" role="search">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-large"><form method="get" class="searchform" action="http://127.0.0.1:8000/" role="search">
 		<div class="flex-row relative">
 			<div class="flex-col flex-grow">
 	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Escribe tu búsqueda" />
@@ -302,27 +303,12 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 								style="z-index:8;background:linear-gradient(130deg, rgba(189,240,3,0.7) 0%, rgba(14,139,167,0.7) 70%, rgba(14,139,167,0.7) 100%);"
 							> 
 							</rs-layer><!--
-
-							--><rs-layer
-								id="slider-1-slide-1-layer-1" 
-								data-type="image"
-								data-rsp_ch="on"
-								data-xy="x:l,l,l,c;xo:90px,90px,90px,0;yo:201px,201px,201px,147px;"
-								data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
-								data-dim="w:176px,176px,176px,121px;h:215px,215px,215px,147px;"
-								data-frame_0="sX:0.9;sY:0.9;"
-								data-frame_1="e:power2.inOut;sp:1000;"
-								data-frame_999="o:0;st:w;sR:8000;"
-								style="z-index:13;"
-							><img decoding="async" src="//veriopoint.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="logo veriopoint mexico" class="tp-rs-img rs-lazyload" width="820" height="1000" data-lazyload="//veriopoint.com/wp-content/uploads/2022/09/logo-color-veriopoint.png" data-no-retina> 
-							</rs-layer><!--
-
 							--><rs-layer
 								id="slider-1-slide-1-layer-2" 
 								class="rev-btn"
 								data-type="button"
 								data-rsp_ch="on"
-								data-xy="x:l,l,l,c;xo:580px,580px,580px,0;yo:727px,727px,727px,585px;"
+								data-xy="x:l,l,l,c;xo:580px,580px,580px,0;yo:700px,700px,700px,627px;"
 								data-text="w:normal;s:18,18,18,17;l:38;fw:500;"
 								data-dim="minh:0,0,0,none;"
 								data-actions='id:nosotros;o:click;a:scrollto;sp:1000ms;e:power0.inOut;'
@@ -343,7 +329,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 								data-type="text"
 								data-color="#fff"
 								data-rsp_ch="on"
-								data-xy="x:l,l,l,c;xo:92px,92px,92px,0;yo:420px,420px,420px,304px;"
+								data-xy="x:l,l,l,c;xo:92px,92px,92px,0;yo:280px,280px,280px,204px;"
 								data-text="w:normal;s:76,76,76,50;l:93,93,93,63;fw:900;"
 								data-dim="minh:0,0,0,none;"
 								data-frame_0="x:0,0,0,0px;y:0,0,0,0px;"
@@ -359,7 +345,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 								data-type="text"
 								data-color="#fff"
 								data-rsp_ch="on"
-								data-xy="x:l,l,l,c;xo:182px,182px,182px,0;yo:500px,500px,500px,355px;"
+								data-xy="x:l,l,l,c;xo:182px,182px,182px,0;yo:370px,370px,370px,255px;"
 								data-text="w:normal,normal,normal,nowrap;s:98,98,98,67;l:107,107,107,72;ls:4,4,4,2;fw:100;"
 								data-dim="w:auto,auto,auto,378px;minh:0,0,0,none;"
 								data-frame_0="x:0,0,0,0px;y:0,0,0,0px;"
@@ -370,11 +356,27 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 							>Integration 
 							</rs-layer><!--
 
+								--><rs-layer
+								id="slider-1-slide-1-layer-11" 
+								data-type="text"
+								data-color="#fff"
+								data-rsp_ch="on"
+								data-xy="x:l,l,l,c;xo:92px,92px,92px,0;yo:480px,480px,480px,447px;"
+								data-text="w:normal;s:76,76,76,50;l:93,93,93,63;fw:900;"
+								data-dim="minh:0,0,0,none;"
+								data-frame_0="x:0,0,0,0px;y:0,0,0,0px;"
+								data-frame_1="x:0,0,0,0px;y:0,0,0,0px;e:power4.inOut;st:510;sp:1200;sR:510;"
+								data-frame_1_sfx="se:blocktoright;"
+								data-frame_999="o:0;st:w;sR:7290;"
+								style="z-index:12;font-family:'Roboto';text-transform:uppercase;"
+							>Honduras 
+							</rs-layer><!--
+
 							--><rs-layer
 								id="slider-1-slide-1-layer-11" 
 								data-type="text"
 								data-rsp_ch="on"
-								data-xy="x:l,l,l,c;xo:188px,188px,188px,5px;yo:615px,615px,615px,437px;"
+								data-xy="x:l,l,l,c;xo:188px,188px,188px,5px;yo:590px,590px,590px,500px;"
 								data-text="w:normal;s:19,19,19,17;l:23,23,23,19;a:right,right,right,center;"
 								data-dim="w:557px,557px,557px,393px;h:113px,113px,113px,102px;"
 								data-padding="t:20,20,20,19;"
@@ -525,212 +527,287 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f4a4bd4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4a4bd4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4c284e1" data-id="4c284e1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9f569f1 elementor-widget elementor-widget-image" data-id="9f569f1" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="378" height="150" src="https://veriopoint.com/wp-content/uploads/2022/09/A10-logo.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/A10-logo.png 378w, https://veriopoint.com/wp-content/uploads/2022/09/A10-logo-300x119.png 300w" sizes="(max-width: 378px) 100vw, 378px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-c901b78 elementor-widget elementor-widget-premium-addon-modal-box" data-id="c901b78" data-element_type="widget" data-settings="{&quot;premium_modal_box_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="premium-addon-modal-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="premium-modal-box-container" data-settings="{&quot;trigger&quot;:&quot;text&quot;}">
-			<div class="premium-modal-trigger-container">
-									<span data-toggle="premium-modal" data-target="#premium-modal-c901b78" class="premium-modal-trigger-text">
-						<div >
-							Ver Solución						</div>
-					</span>
+		<section class="elementor-section elementor-inner-section elementor-element elementor-element-f4a4bd4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4a4bd4" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4c284e1" data-id="4c284e1" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9f569f1 elementor-widget elementor-widget-image" data-id="9f569f1" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="378" height="150" src="https://veriopoint.com/wp-content/uploads/2022/09/A10-logo.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/A10-logo.png 378w, https://veriopoint.com/wp-content/uploads/2022/09/A10-logo-300x119.png 300w" sizes="(max-width: 378px) 100vw, 378px" />
 							</div>
-
-			<div id="premium-modal-c901b78" class="premium-modal-box-modal" role="dialog" style="display: none">
-				<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-										<div class="premium-modal-box-modal-body">
-						<p><b>APLICATION DELIVERY</b></p><ul><li>Alta disponibilidad local y geográfica, balanceo de cargas (ADC)</li><li>Preservación de IPv4 &#8211; Carrier Grade NAT (CGN)</li><li>Next - Gen WAF</li></ul><p><b>SECURITY</b></p><ul><li>Aceleración e inspección de tráfico cifrado (SSLi)</li><li>Concentrador de VPN y Políticas de Firewall L4 (CFW)</li><li>Contención de ataques de DDoS (TPS)</li></ul>					</div>
-											<div class="premium-modal-box-modal-footer">
-							<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">
-								Cerrar							</button>
 						</div>
+						<div class="elementor-element elementor-element-c901b78 elementor-widget elementor-widget-premium-addon-modal-box" data-id="c901b78" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-c901b78" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
 									</div>
-			</div>
-		</div>
-
-				</div>
-				</div>
+									<div id="premium-modal-c901b78" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<p><b>APPLICATION DELIVERY</b></p>
+												<ul>
+													<li>Alta disponibilidad local y geográfica, balanceo de cargas (ADC)</li>
+													<li>Preservación de IPv4 – Carrier Grade NAT (CGN)</li>
+													<li>Next-Gen WAF</li>
+												</ul>
+												<p><b>SECURITY</b></p>
+												<ul>
+													<li>Aceleración e inspección de tráfico cifrado (SSLi)</li>
+													<li>Concentrador de VPN y Políticas de Firewall L4 (CFW)</li>
+													<li>Contención de ataques de DDoS (TPS)</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
-		</div>
+				</div>
+		
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-48f6629" data-id="48f6629" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="75296ae" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="1020" height="340" src="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-300x100.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-768x256.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1536x512.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo.png 1800w" sizes="(max-width: 1020px) 100vw, 1020px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-00aaec0 elementor-widget elementor-widget-premium-addon-modal-box" data-id="00aaec0" data-element_type="widget" data-settings="{&quot;premium_modal_box_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="premium-addon-modal-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="premium-modal-box-container" data-settings="{&quot;trigger&quot;:&quot;text&quot;}">
-			<div class="premium-modal-trigger-container">
-									<span data-toggle="premium-modal" data-target="#premium-modal-00aaec0" class="premium-modal-trigger-text">
-						<div >
-							Ver Solución						</div>
-					</span>
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="75296ae" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="1020" height="340" src="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-300x100.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-768x256.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1536x512.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo.png 1800w" sizes="(max-width: 1020px) 100vw, 1020px" />
 							</div>
-
-			<div id="premium-modal-00aaec0" class="premium-modal-box-modal" role="dialog" style="display: none">
-				<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-										<div class="premium-modal-box-modal-body">
-						<p><b>IT NETWORKING</b></p><ul><li><p>Data Center</p></li><li><p>Wired Access</p></li><li><p>Wireless Access</p></li><li><p>SD-WAN</p></li></ul><p><b>SERVICE PROVIDER</b></p><ul><li><p>IP Transport</p></li><li><p>Automation</p></li></ul>					</div>
-											<div class="premium-modal-box-modal-footer">
-							<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">
-								Cerrar							</button>
 						</div>
+						<div class="elementor-element elementor-element-00aaec0 elementor-widget elementor-widget-premium-addon-modal-box" data-id="00aaec0" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-00aaec0" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
 									</div>
-			</div>
-		</div>
-
-				</div>
-				</div>
+									<div id="premium-modal-00aaec0" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<p><b>IT NETWORKING</b></p>
+												<ul>
+													<li>Data Center</li>
+													<li>Wired Access</li>
+													<li>Wireless Access</li>
+													<li>SD-WAN</li>
+												</ul>
+												<p><b>SERVICE PROVIDER</b></p>
+												<ul>
+													<li>IP Transport</li>
+													<li>Automation</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
-		</div>
+				</div>
+		
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-922d978" data-id="922d978" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d2ee73f elementor-widget elementor-widget-image" data-id="d2ee73f" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="620" height="72" src="https://veriopoint.com/wp-content/uploads/2022/09/fortinet-logo.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/fortinet-logo.png 620w, https://veriopoint.com/wp-content/uploads/2022/09/fortinet-logo-300x35.png 300w" sizes="(max-width: 620px) 100vw, 620px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-d80e914 elementor-widget elementor-widget-premium-addon-modal-box" data-id="d80e914" data-element_type="widget" data-settings="{&quot;premium_modal_box_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="premium-addon-modal-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="premium-modal-box-container" data-settings="{&quot;trigger&quot;:&quot;text&quot;}">
-			<div class="premium-modal-trigger-container">
-									<span data-toggle="premium-modal" data-target="#premium-modal-d80e914" class="premium-modal-trigger-text">
-						<div >
-							Ver Solución						</div>
-					</span>
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d2ee73f elementor-widget elementor-widget-image" data-id="d2ee73f" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="620" height="72" src="{{asset('images/TeksarLabsDC.png')}}" srcset="{{asset('images/TeksarLabsDC.png')}} 821w, {{asset('images/TeksarLabsDC.png')}} 300w, {{asset('TeksarLabsDC.png')}} 768w" sizes="(max-width: 821px) 100vw, 821px" />
 							</div>
-
-			<div id="premium-modal-d80e914" class="premium-modal-box-modal" role="dialog" style="display: none">
-				<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-										<div class="premium-modal-box-modal-body">
-						<p><b>SECURITY</b></p><p><b>NGFW</b></p><ul><li><p>Filtrado Web</p></li><li><p>Control de Aplicaciones</p></li><li><p>Anti-SPAM/Pishing</p></li><li><p>Servicios de Ciberseguridad</p></li><li><p>Antivirus</p></li><li><p>Prevención de Intrusos</p></li><li><p>Sand Boxing</p></li><li><p>SD-WAN</p></li></ul>					</div>
-											<div class="premium-modal-box-modal-footer">
-							<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">
-								Cerrar							</button>
 						</div>
+						<div class="elementor-element elementor-element-d80e914 elementor-widget elementor-widget-premium-addon-modal-box" data-id="d80e914" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-d80e914" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
 									</div>
-			</div>
-		</div>
-
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f49e57d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f49e57d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1e95ffa" data-id="1e95ffa" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-bc2a1df elementor-widget elementor-widget-image" data-id="bc2a1df" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="1020" height="285" src="https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1024x286.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1024x286.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-300x84.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-768x215.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1536x430.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo.png 1909w" sizes="(max-width: 1020px) 100vw, 1020px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-4751cf6 elementor-widget elementor-widget-premium-addon-modal-box" data-id="4751cf6" data-element_type="widget" data-settings="{&quot;premium_modal_box_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="premium-addon-modal-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="premium-modal-box-container" data-settings="{&quot;trigger&quot;:&quot;text&quot;}">
-			<div class="premium-modal-trigger-container">
-									<span data-toggle="premium-modal" data-target="#premium-modal-4751cf6" class="premium-modal-trigger-text">
-						<div >
-							Ver Solución						</div>
-					</span>
-							</div>
-
-			<div id="premium-modal-4751cf6" class="premium-modal-box-modal" role="dialog" style="display: none">
-				<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-										<div class="premium-modal-box-modal-body">
-						<p><b>SECURITY &amp; NETWORKING</b></p><ul><li><p>Seguridad y protección avanzada de DNS</p></li><li><p>Administración de direcciones IP (IPAM)</p></li><li><p>Administración de DHCP</p></li></ul>					</div>
+									<div id="premium-modal-d80e914" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<ul>
+													<li>IMPLEMENTACIÓN DE LOS DATA CENTER CONSTRUIDOS</li>
+													<li>DISEÑO DATA CENTER <sub><h6>(DEFINICIÓN DEL PROYECTO, DISEÑO, CONSTRUCCIÓN E IMPLEMENTACIÓN)<h6><sub></li>
+													<li>CONSULTORÍA <sub><h6>(ESPECIALIZADOS EN LAS ÁREAS ELÉCTRICA, AIRE ACONDICIONADO, CABLEADO Y CUARTOS DE MISIÓN CRITICA)<h6><sub></li>
+													<li>MONITOREO DATA CENTER <sub><h6>(INFRAESTRUCTURA FÍSICA DEL DATA CENTER EN FORMA REMOTA)<h6><sub></li>
+													<li>MANTENIMIENTO A DATA CENTER
+														<ul style="margin-top: 0rem !important">
+															<li><h6>Mantenimientos Preventivos</h6></li>
+															<li><h6>Mantenimientos Predictivos</h6></li>
+															<li><h6>Mantenimientos Correctivos</h6></li>
+														</ul>
+													</li>
+												</ul>
+											</div>
 											<div class="premium-modal-box-modal-footer">
-							<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">
-								Cerrar							</button>
-						</div>
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
 									</div>
-			</div>
-		</div>
-
-				</div>
-				</div>
+								</div>
+							</div>
+						</div>
 					</div>
-		</div>
+				</div>
+			</div>
+		</section>		
+		<section class="elementor-section elementor-inner-section elementor-element elementor-element-f49e57d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f49e57d" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1e95ffa" data-id="1e95ffa" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bc2a1df elementor-widget elementor-widget-image" data-id="bc2a1df" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="1020" height="285" src="https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1024x286.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1024x286.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-300x84.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-768x215.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1536x430.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo.png 1909w" sizes="(max-width: 1020px) 100vw, 1020px" />
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-4751cf6 elementor-widget elementor-widget-premium-addon-modal-box" data-id="4751cf6" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-4751cf6" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
+									</div>
+									<div id="premium-modal-4751cf6" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<p><b>SECURITY & NETWORKING</b></p>
+												<ul>
+													<li>Seguridad y protección avanzada de DNS</li>
+													<li>Administración de direcciones IP (IPAM)</li>
+													<li>Administración de DHCP</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+		
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-15de20a" data-id="15de20a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ffd6617 elementor-widget elementor-widget-image" data-id="ffd6617" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="821" height="200" src="https://veriopoint.com/wp-content/uploads/2022/09/checkpoint-logo.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/checkpoint-logo.png 821w, https://veriopoint.com/wp-content/uploads/2022/09/checkpoint-logo-300x73.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/checkpoint-logo-768x187.png 768w" sizes="(max-width: 821px) 100vw, 821px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-ac85c7b elementor-widget elementor-widget-premium-addon-modal-box" data-id="ac85c7b" data-element_type="widget" data-settings="{&quot;premium_modal_box_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="premium-addon-modal-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="premium-modal-box-container" data-settings="{&quot;trigger&quot;:&quot;text&quot;}">
-			<div class="premium-modal-trigger-container">
-									<span data-toggle="premium-modal" data-target="#premium-modal-ac85c7b" class="premium-modal-trigger-text">
-						<div >
-							Ver Solución						</div>
-					</span>
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ffd6617 elementor-widget elementor-widget-image" data-id="ffd6617" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="821" height="200" src="{{asset('images/pan-logo-dark.svg')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/pan-logo-dark.svg')}} 821w, {{asset('images/pan-logo-dark.svg')}} 300w, {{asset('images/pan-logo-dark.svg')}} 768w" sizes="(max-width: 821px) 100vw, 821px" />
 							</div>
-
-			<div id="premium-modal-ac85c7b" class="premium-modal-box-modal" role="dialog" style="display: none">
-				<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-										<div class="premium-modal-box-modal-body">
-						<p><b>SECURITY</b></p><ul><li>Asegurar la Red     <img loading="lazy" decoding="async" class="alignnone wp-image-231" src="https://veriopoint.com/wp-content/uploads/2022/09/quantum-logo-300x112.png" alt="" width="201" height="75" srcset="https://veriopoint.com/wp-content/uploads/2022/09/quantum-logo-300x112.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/quantum-logo.png 754w" sizes="(max-width: 201px) 100vw, 201px" /></li><li>Asegurar el Cloud      <img loading="lazy" decoding="async" class="alignnone wp-image-232" src="https://veriopoint.com/wp-content/uploads/2022/09/cloudguard-300x112.png" alt="" width="200" height="75" srcset="https://veriopoint.com/wp-content/uploads/2022/09/cloudguard-300x112.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/cloudguard.png 754w" sizes="(max-width: 200px) 100vw, 200px" /></li><li>Asegurar a los Usuarios y el Acceso      <img loading="lazy" decoding="async" class="alignnone wp-image-233" src="https://veriopoint.com/wp-content/uploads/2022/09/harmony-logo-300x95.png" alt="" width="200" height="63" srcset="https://veriopoint.com/wp-content/uploads/2022/09/harmony-logo-300x95.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/harmony-logo-768x243.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/harmony-logo.png 890w" sizes="(max-width: 200px) 100vw, 200px" /></li><li>Administración Unificada   <img loading="lazy" decoding="async" class="alignnone wp-image-234" src="https://veriopoint.com/wp-content/uploads/2022/09/inifinityvision-logo-300x87.png" alt="" width="201" height="58" srcset="https://veriopoint.com/wp-content/uploads/2022/09/inifinityvision-logo-300x87.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/inifinityvision-logo-768x222.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/inifinityvision-logo.png 796w" sizes="(max-width: 201px) 100vw, 201px" /></li></ul>					</div>
-											<div class="premium-modal-box-modal-footer">
-							<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">
-								Cerrar							</button>
 						</div>
+						<div class="elementor-element elementor-element-ac85c7b elementor-widget elementor-widget-premium-addon-modal-box" data-id="ac85c7b" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-ac85c7b" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
 									</div>
-			</div>
-		</div>
-
-				</div>
-				</div>
+									<div id="premium-modal-ac85c7b" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<p><b>Seguridad de red</b></p>
+												<ul>
+													<li>Firewall de nueva generación</li>
+													<li>NGFW virtualizados de VM-Series</li>
+													<li>Panorama</li>
+												</ul>
+												<p><b>Dispositivo periférico de servicio de acceso seguro</b></p>
+												<ul>
+													<li>Prisma SASE</li>
+													<li>Prisma SD-WAN</li>
+													<li>Gestión autónoma de la experiencia digital</li>
+												</ul>
+												<p><b>Servicios de seguridad en la nube</b></p>
+												<ul>
+													<li>Advanced Threat Prevention</li>
+													<li>Advanced URL Filtering</li>
+													<li>WildFire</li>
+													<li>SaaS Security</li>
+												</ul>
+												<p><b>Protección de aplicaciones nativas de la nube</b></p>
+												<ul>
+													<li>Plataforma de Prisma Cloud</li>
+													<li>Gestión de posiciones de seguridad en la nube</li>
+													<li>Protección de cargas de trabajo en la nube</li>
+													<li>Seguridad de red en la nube</li>
+													<li>Seguridad de la identidad en la nube</li>
+													<li>Seguridad de aplicaciones web y API</li>
+												</ul>
+												<p><b>Seguridad de endpoint</b></p>
+												<ul>
+													<li>Cortex XDR</li>
+													<li>Seguridad de aplicaciones web y API</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
-		</div>
+				</div>
+		
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-67db274" data-id="67db274" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ba8fdc8 elementor-widget elementor-widget-image" data-id="ba8fdc8" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="800" height="234" src="https://veriopoint.com/wp-content/uploads/2022/09/sophos-logo.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/sophos-logo.png 800w, https://veriopoint.com/wp-content/uploads/2022/09/sophos-logo-300x88.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/sophos-logo-768x225.png 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
-				</div>
-				<div class="elementor-element elementor-element-23fa98a elementor-widget elementor-widget-premium-addon-modal-box" data-id="23fa98a" data-element_type="widget" data-settings="{&quot;premium_modal_box_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="premium-addon-modal-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="premium-modal-box-container" data-settings="{&quot;trigger&quot;:&quot;text&quot;}">
-			<div class="premium-modal-trigger-container">
-									<span data-toggle="premium-modal" data-target="#premium-modal-23fa98a" class="premium-modal-trigger-text">
-						<div >
-							Ver Solución						</div>
-					</span>
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ba8fdc8 elementor-widget elementor-widget-image" data-id="ba8fdc8" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="800" height="234" src="{{asset('images/veritas.svg')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/veritas.svg')}} 800w, {{asset('images/veritas.svg')}} 300w, {{asset('images/pan-logo-dark.svg')}} 768w" sizes="(max-width: 800px) 100vw, 800px" />
 							</div>
-
-			<div id="premium-modal-23fa98a" class="premium-modal-box-modal" role="dialog" style="display: none">
-				<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-										<div class="premium-modal-box-modal-body">
-						<p><b>ENDPOINT</b></p><ul><li><p>Anti-Ransomware</p></li><li><p>Prevención de Exploits</p></li><li><p>Gestión de dispositivos Móviles</p></li></ul><p><b>E-MAIL</b></p><ul><li><p>Protección de Correo Electrónico</p></li></ul><p><b>RED</b></p><ul><li>Firewall NGFW</li><li>Secure WiFi</li><li>Zero Trust</li></ul>					</div>
-											<div class="premium-modal-box-modal-footer">
-							<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">
-								Cerrar							</button>
 						</div>
+						<div class="elementor-element elementor-element-23fa98a elementor-widget elementor-widget-premium-addon-modal-box" data-id="23fa98a" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-23fa98a" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
 									</div>
-			</div>
-		</div>
-
-				</div>
-				</div>
-					</div>
-		</div>
+									<div id="premium-modal-23fa98a" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<p><b>Protección</b></p>
+												<ul>
+													<li>Netbackup para Multicloud</li>
+													<li>Appliances Corta Retención</li>
+													<li>Appliances Larga Retención</li>
+													<li>Nube Veritas para Larga Retención</li>
+													<li>Netbackup para O365</li>
+												</ul>
+												<p><b>Disponibilidad</b></p>
+												<ul>
+													<li>Netbackup Resiliency</li>
+													<li>Infoscale</li>
+												</ul>
+												<p><b>Insight</b></p>
+												<ul>
+													<li>Data Insight</li>
+													<li>Enterprise Vault</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
+		
 					</div>
 		</div>
 							</div>
@@ -871,36 +948,146 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-31f445d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31f445d" data-element_type="section" id="certificaciones">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9988c81" data-id="9988c81" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-db3aa44 elementor-widget elementor-widget-heading" data-id="db3aa44" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Certificaciones</h1>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8496fe6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8496fe6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3a0e25c" data-id="3a0e25c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f822508 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="f822508" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;8&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;slides_to_show_tablet&quot;:&quot;5&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.8.0 - 30-10-2022 */
-.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
-			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-03-px75x4ptr8qishim0tro68qi3j9mplmaquimmmmqyo.png" alt="f5-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-02-px75xr9yb9lej4lud3ipu31kcs6fuc3uty6a59patc.png" alt="f5-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-01-px75yn8grmt5hvbf6hc16uz8jvsx41mqaccsgodwxs.png" alt="f5-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/network-01-px75zdjy2zt6iy96wspl4oc56o773kj7pymdwfaw3k.png" alt="network-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/itil-01-px75ztj7b6f20blzbhm8t2aza80fqfang5pn24n75s.png" alt="itil-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-04-px760lqd07hnomh0qtt1vv6t3s5g5celk1a7gfhdz4.png" alt="check-04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-03-px761dxip8k9cxc265zuyo2mxcagk9ijnwuruqbksg.png" alt="check-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-02-px76272il3o5cu5qg0lalypxcaau6vq83x2tqb4dfk.png" alt="check-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-01-px762ybu3apgpj250udh49uakgkhe3qfvnzwnbzyf4.png" alt="check-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-03-px764t2dkj8tlud7757zjb00qtfjkm3dsubdpz905c.png" alt="infoblox-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-02-px765yf9x8tfsop4hn3kl0kavrrozankmj0qu5jojk.png" alt="infoblox-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-01-px7678hd84khlku80p0ah6xvzngoggqf4uzjcpne2o.png" alt="infoblox-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-03-px768fpxyi7ofn3f07p4nw13bdjkaji2mszvffva4g.png" alt="juniper-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-02-px769k504dr0avgpg76353twuy0chiyj4d1r2c7cow.png" alt="juniper-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-01-px76aok2a9ac63tzw6n1mbmqeih4oiezlx3mp8jf9c.png" alt="juniper-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-03-px76bhp264e860no618h9ma0tghib4mo1xboktc7wg.png" alt="sss-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-02-px76cgh36zpu3l95iy9obvi2spq37xgqipgnc1wni8.png" alt="sss-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-01-px76dh4slj40odrwkw44j491yqpek4i9nqwl1ueark.png" alt="sss-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-06-px76eq91pkts5nyd9fm7usv6h8j0tlhdty7w34jegw.png" alt="fortinet-06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-05-px76g8ropywev1r6f36kvf3wxl2b81htdg21x6akg0.png" alt="fortinet-05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-04-px76hzqvfvamgx7p7cel0h7sqefwjrfty3rl2pp6v4.png" alt="fortinet-04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-03-px76j6zg68xtazgw6v3f76b024isdu7hg1rx5fx2ww.png" alt="fortinet-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-02-px76kok8zsz5orb2i095nas9x36pkl46neyli7pn28.png" alt="fortinet-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-01-px76m9wekp5ncyzs771edebe5lc3m4ft7ar7s3cmio.png" alt="fortinet-01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-04-px76nak3z8jtxrij94vukn2dbmbeybhccc75hvu9s0.png" alt="a10-04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-03-px76ob7tdry0ik1ab2qarvtchnaqaiivhdn37obx1c.png" alt="a10-03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-02-px76p5angh36u2tlffqczo83hz6h4tua9iimkj3bi8.png" alt="a10-02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-01-px76qcj86uqdo52seyf76dbatp9cywlxrgiyn9b7k0.png" alt="a10-01" /></figure></div>			</div>
-												<div class="swiper-pagination"></div>
+		<section class="elementor-section elementor-top-section elementor-element elementor-element-31f445d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31f445d" data-element_type="section" id="certificaciones">
+			<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9988c81" data-id="9988c81" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-db3aa44 elementor-widget elementor-widget-heading" data-id="db3aa44" data-element_type="widget" data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h1 class="elementor-heading-title elementor-size-default">Certificaciones</h1>
+							</div>
+						</div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-8496fe6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8496fe6" data-element_type="section">
+							<div class="elementor-container elementor-column-gap-default">
+								<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3a0e25c" data-id="3a0e25c" data-element_type="column">
+									<div class="elementor-widget-wrap elementor-element-populated">
+										<div class="elementor-element elementor-element-f822508 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="f822508" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;8&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;slides_to_show_tablet&quot;:&quot;5&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+											<div class="elementor-widget-container">
+												<style>/*! elementor - v3.8.0 - 30-10-2022 */
+													.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}
+												</style>
+												<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+													<div class="elementor-image-carousel swiper-wrapper">
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-03-px75x4ptr8qishim0tro68qi3j9mplmaquimmmmqyo.png" alt="f5-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-02-px75xr9yb9lej4lud3ipu31kcs6fuc3uty6a59patc.png" alt="f5-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-01-px75yn8grmt5hvbf6hc16uz8jvsx41mqaccsgodwxs.png" alt="f5-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/network-01-px75zdjy2zt6iy96wspl4oc56o773kj7pymdwfaw3k.png" alt="network-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/itil-01-px75ztj7b6f20blzbhm8t2aza80fqfang5pn24n75s.png" alt="itil-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-04-px760lqd07hnomh0qtt1vv6t3s5g5celk1a7gfhdz4.png" alt="check-04" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-03-px761dxip8k9cxc265zuyo2mxcagk9ijnwuruqbksg.png" alt="check-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-02-px76272il3o5cu5qg0lalypxcaau6vq83x2tqb4dfk.png" alt="check-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-01-px762ybu3apgpj250udh49uakgkhe3qfvnzwnbzyf4.png" alt="check-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-03-px764t2dkj8tlud7757zjb00qtfjkm3dsubdpz905c.png" alt="infoblox-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-02-px765yf9x8tfsop4hn3kl0kavrrozankmj0qu5jojk.png" alt="infoblox-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-01-px7678hd84khlku80p0ah6xvzngoggqf4uzjcpne2o.png" alt="infoblox-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-03-px768fpxyi7ofn3f07p4nw13bdjkaji2mszvffva4g.png" alt="juniper-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-02-px769k504dr0avgpg76353twuy0chiyj4d1r2c7cow.png" alt="juniper-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-01-px76aok2a9ac63tzw6n1mbmqeih4oiezlx3mp8jf9c.png" alt="juniper-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-03-px76bhp264e860no618h9ma0tghib4mo1xboktc7wg.png" alt="sss-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-02-px76cgh36zpu3l95iy9obvi2spq37xgqipgnc1wni8.png" alt="sss-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-01-px76dh4slj40odrwkw44j491yqpek4i9nqwl1ueark.png" alt="sss-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-06-px76eq91pkts5nyd9fm7usv6h8j0tlhdty7w34jegw.png" alt="fortinet-06" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-05-px76g8ropywev1r6f36kvf3wxl2b81htdg21x6akg0.png" alt="fortinet-05" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-04-px76hzqvfvamgx7p7cel0h7sqefwjrfty3rl2pp6v4.png" alt="fortinet-04" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-03-px76j6zg68xtazgw6v3f76b024isdu7hg1rx5fx2ww.png" alt="fortinet-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-02-px76kok8zsz5orb2i095nas9x36pkl46neyli7pn28.png" alt="fortinet-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-01-px76m9wekp5ncyzs771edebe5lc3m4ft7ar7s3cmio.png" alt="fortinet-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-04-px76nak3z8jtxrij94vukn2dbmbeybhccc75hvu9s0.png" alt="a10-04" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-03-px76ob7tdry0ik1ab2qarvtchnaqaiivhdn37obx1c.png" alt="a10-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-02-px76p5angh36u2tlffqczo83hz6h4tua9iimkj3bi8.png" alt="a10-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-01-px76qcj86uqdo52seyf76dbatp9cywlxrgiyn9b7k0.png" alt="a10-01" /></figure></div>
 													</div>
-				</div>
-				</div>
-					</div>
-		</div>
+													<div class="swiper-pagination"></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
-		</section>
+						</section>
 					</div>
-		</div>
-							</div>
+				</div>
+			</div>
 		</section>
+		<section class="elementor-section elementor-top-section elementor-element elementor-element-31f445d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="31f445d" data-element_type="section" id="clientes">
+			<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9988c81" data-id="9988c81" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-db3aa44 elementor-widget elementor-widget-heading" data-id="db3aa44" data-element_type="widget" data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h1 class="elementor-heading-title elementor-size-default">Nuestros Clientes</h1>
+							</div>
+						</div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-8496fe6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8496fe6" data-element_type="section">
+							<div class="elementor-container elementor-column-gap-default">
+								<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3a0e25c" data-id="3a0e25c" data-element_type="column">
+									<div class="elementor-widget-wrap elementor-element-populated">
+										<div class="elementor-element elementor-element-f822508 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="f822508" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;8&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;slides_to_show_tablet&quot;:&quot;5&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+											<div class="elementor-widget-container">
+												<style>/*! elementor - v3.8.0 - 30-10-2022 */
+													.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}
+												</style>
+												<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+													<div class="elementor-image-carousel swiper-wrapper" style="display: flex; align-items: center;">
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/azteca.png') }}" alt="azteca" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/atlantik.png') }}" alt="atlantik" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/att.png') }}" alt="att" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/avon.png') }}" alt="avon" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/batlantida.png') }}" alt="batlantida" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/hidalgo.png') }}" alt="hidalgo" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/izzi.png') }}" alt="izzi" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/scitum.png') }}" alt="scitum" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/telefonica.png') }}" alt="telefonica" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/totalplay.png') }}" alt="totalplay" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/megacable.png') }}" alt="megacable" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/uaeh.png') }}" alt="uaeh" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/unam.png') }}" alt="unam" /></figure>
+														</div>
+														<div class="swiper-slide" style="padding: 0 10px;">
+															<figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{ asset('images/clientes/triara.png') }}" alt="triara" /></figure>
+														</div>
+														<!-- Agrega más imágenes de clientes según sea necesario -->
+													</div>
+													<div class="swiper-pagination"></div>
+												</div>
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+				
 							</div>
 		
 						
@@ -918,12 +1105,12 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <!-- FOOTER 1 -->
 <div class="footer-widgets footer footer-1">
 		<div class="row dark large-columns-4 mb-0">
-	   		<div id="media_image-3" class="col pb-0 widget widget_media_image"><img width="123" height="150" src="https://veriopoint.com/wp-content/uploads/2022/09/logo-white-veriopoint-247x300.png" class="image wp-image-10  attachment-123x150 size-123x150" alt="logo veriopoint balnco" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://veriopoint.com/wp-content/uploads/2022/09/logo-white-veriopoint-247x300.png 247w, https://veriopoint.com/wp-content/uploads/2022/09/logo-white-veriopoint-768x933.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/logo-white-veriopoint.png 820w" sizes="(max-width: 123px) 100vw, 123px" /></div><div id="text-3" class="col pb-0 widget widget_text"><span class="widget-title">Dirección</span><div class="is-divider small"></div>			<div class="textwidget"><p><span class="LrzXr">Honduras Business Center, Centro Comercial Novacentro, 8vo nivel Torre Nova, Paseo Comercial Los Próceres Tegucigalpa M.D.C.<br />
+	   		<div id="media_image-3" class="col pb-0 widget widget_media_image"><img width="123" height="150" src="{{asset('images/veriopoint-alpha.png')}}" class="image wp-image-10  attachment-123x150 size-123x150" alt="logo veriopoint balnco" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="{{asset('images/veriopoint-alpha.png')}} 247w, {{asset('images/veriopoint-alpha.png')}} 768w, {{asset('images/veriopoint-alpha.png')}} 820w" sizes="(max-width: 123px) 100vw, 123px" /></div><div id="text-3" class="col pb-0 widget widget_text"><span class="widget-title">Dirección</span><div class="is-divider small"></div>			<div class="textwidget"><p><span class="LrzXr">Honduras Business Center, Centro Comercial Novacentro, 8vo nivel Torre Nova, Paseo Comercial Los Próceres Tegucigalpa M.D.C.<br />
 </span></p>
 </div>
 		</div><div id="text-4" class="col pb-0 widget widget_text"><span class="widget-title">Contacto</span><div class="is-divider small"></div>			<div class="textwidget">
 <p>+504 2268-0687</p>
-<p>info@veriopoint.com</p>
+<p>Informacion@hubsit.com</p>
 </div>
 		</div><div id="text-5" class="col pb-0 widget widget_text"><span class="widget-title">Links</span><div class="is-divider small"></div>			<div class="textwidget"><p>Aviso de Privacidad</p>
 <p>Términos y Condiciones</p>
@@ -942,7 +1129,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
     
     <div class="footer-primary pull-left">
             <div class="copyright-footer">
-        Copyright 2024 © <strong>Veriopoint HN, Technology integration</strong> | Diseño: <a href="https://www.capitalagency.com.mx">Capital Agency</a>      </div>
+        Copyright 2024 © <strong>Veriopoint HN, Technology integration</strong> | Diseño: <a href="https://www.hpcm.com.mx">Digital Sentry</a>      </div>
           </div>
   </div>
 </div>
@@ -988,6 +1175,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="#soluciones">Nuestra Tecnología</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="#servicios">Servicios</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195"><a href="#certificaciones">Certificaciones</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195"><a href="#clientes">Nuestros Clientes</a></li>
 WooCommerce not Found			</ul>
 		
 		
@@ -1040,7 +1228,120 @@ var flatsomeVars = {"theme":{"version":"3.15.7"},"ajaxurl":"https:\/\/veriopoint
 <script type="text/javascript" src="https://veriopoint.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Fijarlo","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir video","previous":"Previo","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.8.0","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/veriopoint.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2,"title":"Veriopoint%20%E2%80%93%20Somos%20expertos%20en%20la%20integraci%C3%B3n%20de%20Soluciones%20de%20Tecnolog%C3%ADas%20de%20la%20informaci%C3%B3n","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {
+    "environmentMode": {
+        "edit": false,          // Modo de edición desactivado
+        "wpPreview": false,     // Vista previa de WordPress desactivada
+        "isScriptDebug": false  // Depuración de scripts desactivada
+    },
+    "i18n": {
+        "shareOnFacebook": "Compartir en Facebook",  // Traducción para compartir en Facebook
+        "shareOnTwitter": "Compartir en Twitter",    // Traducción para compartir en Twitter
+        "pinIt": "Fijarlo",                          // Traducción para fijar (Pinterest)
+        "download": "Descargar",                     // Traducción para descargar
+        "downloadImage": "Descargar imagen",         // Traducción para descargar imagen
+        "fullscreen": "Pantalla completa",           // Traducción para pantalla completa
+        "zoom": "Zoom",                              // Traducción para zoom
+        "share": "Compartir",                        // Traducción para compartir
+        "playVideo": "Reproducir video",             // Traducción para reproducir video
+        "previous": "Previo",                        // Traducción para anterior
+        "next": "Siguiente",                         // Traducción para siguiente
+        "close": "Cerrar"                            // Traducción para cerrar
+    },
+    "is_rtl": false,  // Configuración de texto de izquierda a derecha (no activado)
+    "breakpoints": {
+        "xs": 0,      // Punto de quiebre extra pequeño (0px)
+        "sm": 480,    // Punto de quiebre pequeño (480px)
+        "md": 768,    // Punto de quiebre mediano (768px)
+        "lg": 1025,   // Punto de quiebre grande (1025px)
+        "xl": 1440,   // Punto de quiebre extra grande (1440px)
+        "xxl": 1600   // Punto de quiebre extra extra grande (1600px)
+    },
+    "responsive": {
+        "breakpoints": {
+            "mobile": {
+                "label": "Móvil",            // Etiqueta para punto de quiebre móvil
+                "value": 767,                // Valor del punto de quiebre móvil
+                "default_value": 767,        // Valor predeterminado del punto de quiebre móvil
+                "direction": "max",          // Dirección de máximo para el punto de quiebre móvil
+                "is_enabled": true           // Habilitación del punto de quiebre móvil
+            },
+            "mobile_extra": {
+                "label": "Móvil grande",     // Etiqueta para punto de quiebre móvil grande
+                "value": 880,                // Valor del punto de quiebre móvil grande
+                "default_value": 880,        // Valor predeterminado del punto de quiebre móvil grande
+                "direction": "max",          // Dirección de máximo para el punto de quiebre móvil grande
+                "is_enabled": false          // Deshabilitación del punto de quiebre móvil grande
+            },
+            "tablet": {
+                "label": "Tableta",          // Etiqueta para punto de quiebre tableta
+                "value": 1024,               // Valor del punto de quiebre tableta
+                "default_value": 1024,       // Valor predeterminado del punto de quiebre tableta
+                "direction": "max",          // Dirección de máximo para el punto de quiebre tableta
+                "is_enabled": true           // Habilitación del punto de quiebre tableta
+            },
+            "tablet_extra": {
+                "label": "Tableta grande",   // Etiqueta para punto de quiebre tableta grande
+                "value": 1200,               // Valor del punto de quiebre tableta grande
+                "default_value": 1200,       // Valor predeterminado del punto de quiebre tableta grande
+                "direction": "max",          // Dirección de máximo para el punto de quiebre tableta grande
+                "is_enabled": false          // Deshabilitación del punto de quiebre tableta grande
+            },
+            "laptop": {
+                "label": "Laptop",           // Etiqueta para punto de quiebre laptop
+                "value": 1366,               // Valor del punto de quiebre laptop
+                "default_value": 1366,       // Valor predeterminado del punto de quiebre laptop
+                "direction": "max",          // Dirección de máximo para el punto de quiebre laptop
+                "is_enabled": false          // Deshabilitación del punto de quiebre laptop
+            },
+            "widescreen": {
+                "label": "Pantalla grande",  // Etiqueta para punto de quiebre pantalla grande
+                "value": 2400,               // Valor del punto de quiebre pantalla grande
+                "default_value": 2400,       // Valor predeterminado del punto de quiebre pantalla grande
+                "direction": "min",          // Dirección de mínimo para el punto de quiebre pantalla grande
+                "is_enabled": false          // Deshabilitación del punto de quiebre pantalla grande
+            }
+        }
+    },
+    "version": "3.8.0",         // Versión de Elementor
+    "is_static": false,         // Configuración estática desactivada
+    "experimentalFeatures": {   // Características experimentales activadas
+        "e_dom_optimization": true,
+        "e_optimized_assets_loading": true,
+        "e_optimized_css_loading": true,
+        "a11y_improvements": true,
+        "additional_custom_breakpoints": true,
+        "e_import_export": true,
+        "e_hidden_wordpress_widgets": true,
+        "landing-pages": true,
+        "elements-color-picker": true,
+        "favorite-widgets": true,
+        "admin-top-bar": true
+    },
+    "urls": {
+        "assets": "https://veriopoint.com/wp-content/plugins/elementor/assets/"  // URL base para activos
+    },
+    "settings": {
+        "page": [],            // Configuraciones de página (vacías en este caso)
+        "editorPreferences": []  // Preferencias del editor (vacías en este caso)
+    },
+    "kit": {
+        "active_breakpoints": ["viewport_mobile", "viewport_tablet"],  // Puntos de quiebre activos
+        "global_image_lightbox": "yes",        // Habilitación global de lightbox de imágenes
+        "lightbox_enable_counter": "yes",      // Habilitación de contador en lightbox
+        "lightbox_enable_fullscreen": "yes",   // Habilitación de pantalla completa en lightbox
+        "lightbox_enable_zoom": "yes",         // Habilitación de zoom en lightbox
+        "lightbox_enable_share": "yes",        // Habilitación de compartir en lightbox
+        "lightbox_title_src": "title",         // Fuente del título en lightbox
+        "lightbox_description_src": "description"  // Fuente de la descripción en lightbox
+    },
+    "post": {
+        "id": 2,  // ID de la publicación actual (2 en este caso)
+        "title": "Veriopoint HN – Somos expertos en la integración de Soluciones de Tecnologías de la información",  // Título de la publicación
+        "excerpt": "",     // Extracto de la publicación (vacío en este caso)
+        "featuredImage": false  // Imagen destacada (falsa en este caso)
+    }
+};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.0" id="elementor-frontend-js"></script>
