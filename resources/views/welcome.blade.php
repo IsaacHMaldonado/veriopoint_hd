@@ -520,143 +520,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-733c6e1 elementor-widget elementor-widget-text-editor" data-id="733c6e1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Como parte de nuestra estrategia, hemos construido alianzas con empresas líderes en tecnologías tales como <strong>Palo Alto, Veritas, A10, Checkpoint, Infoblox, Juniper y Una Alianza estrategica con Teksar Labs </strong> lo cual nos permite proveer soluciones innovadoras que en conjunto con nuestros servicios especializados cumplamos con los objetivos de su organización convirtiéndonos en un gran aliado de negocio.
+							<p>Como parte de nuestra estrategia, hemos construido alianzas con empresas líderes en tecnologías tales como <strong>Palo Alto, Veritas, Infoblox, Juniper y Una Alianza estrategica con Teksar Labs </strong> lo cual nos permite proveer soluciones innovadoras que en conjunto con nuestros servicios especializados cumplamos con los objetivos de su organización convirtiéndonos en un gran aliado de negocio.
                             </p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-		<section class="elementor-section elementor-inner-section elementor-element elementor-element-f4a4bd4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4a4bd4" data-element_type="section">
-			<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4c284e1" data-id="4c284e1" data-element_type="column">
-					<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-9f569f1 elementor-widget elementor-widget-image" data-id="9f569f1" data-element_type="widget" data-widget_type="image.default">
-							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="378" height="150" src="https://veriopoint.com/wp-content/uploads/2022/09/A10-logo.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/A10-logo.png 378w, https://veriopoint.com/wp-content/uploads/2022/09/A10-logo-300x119.png 300w" sizes="(max-width: 378px) 100vw, 378px" />
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-c901b78 elementor-widget elementor-widget-premium-addon-modal-box" data-id="c901b78" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
-							<div class="elementor-widget-container">
-								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
-									<div class="premium-modal-trigger-container">
-										<span data-toggle="premium-modal" data-target="#premium-modal-c901b78" class="premium-modal-trigger-text">
-											<div>Ver Solución</div>
-										</span>
-									</div>
-									<div id="premium-modal-c901b78" class="premium-modal-box-modal" role="dialog" style="display: none">
-										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-											<div class="premium-modal-box-modal-body">
-												<p><b>APPLICATION DELIVERY</b></p>
-												<ul>
-													<li>Alta disponibilidad local y geográfica, balanceo de cargas (ADC)</li>
-													<li>Preservación de IPv4 – Carrier Grade NAT (CGN)</li>
-													<li>Next-Gen WAF</li>
-												</ul>
-												<p><b>SECURITY</b></p>
-												<ul>
-													<li>Aceleración e inspección de tráfico cifrado (SSLi)</li>
-													<li>Concentrador de VPN y Políticas de Firewall L4 (CFW)</li>
-													<li>Contención de ataques de DDoS (TPS)</li>
-												</ul>
-											</div>
-											<div class="premium-modal-box-modal-footer">
-												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-		
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-48f6629" data-id="48f6629" data-element_type="column">
-					<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="75296ae" data-element_type="widget" data-widget_type="image.default">
-							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="1020" height="340" src="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-300x100.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-768x256.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1536x512.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo.png 1800w" sizes="(max-width: 1020px) 100vw, 1020px" />
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-00aaec0 elementor-widget elementor-widget-premium-addon-modal-box" data-id="00aaec0" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
-							<div class="elementor-widget-container">
-								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
-									<div class="premium-modal-trigger-container">
-										<span data-toggle="premium-modal" data-target="#premium-modal-00aaec0" class="premium-modal-trigger-text">
-											<div>Ver Solución</div>
-										</span>
-									</div>
-									<div id="premium-modal-00aaec0" class="premium-modal-box-modal" role="dialog" style="display: none">
-										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-											<div class="premium-modal-box-modal-body">
-												<p><b>IT NETWORKING</b></p>
-												<ul>
-													<li>Data Center</li>
-													<li>Wired Access</li>
-													<li>Wireless Access</li>
-													<li>SD-WAN</li>
-												</ul>
-												<p><b>SERVICE PROVIDER</b></p>
-												<ul>
-													<li>IP Transport</li>
-													<li>Automation</li>
-												</ul>
-											</div>
-											<div class="premium-modal-box-modal-footer">
-												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-		
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-922d978" data-id="922d978" data-element_type="column">
-					<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-d2ee73f elementor-widget elementor-widget-image" data-id="d2ee73f" data-element_type="widget" data-widget_type="image.default">
-							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="620" height="72" src="{{asset('images/TeksarLabsDC.png')}}" srcset="{{asset('images/TeksarLabsDC.png')}} 821w, {{asset('images/TeksarLabsDC.png')}} 300w, {{asset('TeksarLabsDC.png')}} 768w" sizes="(max-width: 821px) 100vw, 821px" />
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-d80e914 elementor-widget elementor-widget-premium-addon-modal-box" data-id="d80e914" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
-							<div class="elementor-widget-container">
-								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
-									<div class="premium-modal-trigger-container">
-										<span data-toggle="premium-modal" data-target="#premium-modal-d80e914" class="premium-modal-trigger-text">
-											<div>Ver Solución</div>
-										</span>
-									</div>
-									<div id="premium-modal-d80e914" class="premium-modal-box-modal" role="dialog" style="display: none">
-										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
-											<div class="premium-modal-box-modal-body">
-												<ul>
-													<li>IMPLEMENTACIÓN DE LOS DATA CENTER CONSTRUIDOS</li>
-													<li>DISEÑO DATA CENTER <sub><h6>(DEFINICIÓN DEL PROYECTO, DISEÑO, CONSTRUCCIÓN E IMPLEMENTACIÓN)<h6><sub></li>
-													<li>CONSULTORÍA <sub><h6>(ESPECIALIZADOS EN LAS ÁREAS ELÉCTRICA, AIRE ACONDICIONADO, CABLEADO Y CUARTOS DE MISIÓN CRITICA)<h6><sub></li>
-													<li>MONITOREO DATA CENTER <sub><h6>(INFRAESTRUCTURA FÍSICA DEL DATA CENTER EN FORMA REMOTA)<h6><sub></li>
-													<li>MANTENIMIENTO A DATA CENTER
-														<ul style="margin-top: 0rem !important">
-															<li><h6>Mantenimientos Preventivos</h6></li>
-															<li><h6>Mantenimientos Predictivos</h6></li>
-															<li><h6>Mantenimientos Correctivos</h6></li>
-														</ul>
-													</li>
-												</ul>
-											</div>
-											<div class="premium-modal-box-modal-footer">
-												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>		
 		<section class="elementor-section elementor-inner-section elementor-element elementor-element-f49e57d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f49e57d" data-element_type="section">
 			<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1e95ffa" data-id="1e95ffa" data-element_type="column">
@@ -807,6 +677,98 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				</div>
 			</div>
 		</section>
+		<section class="elementor-section elementor-inner-section elementor-element elementor-element-f4a4bd4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4a4bd4" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-default">
+				
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-922d978" data-id="922d978" data-element_type="column">
+					
+				</div>
+				<div class="elementor-column elementor-col-30 elementor-inner-column elementor-element elementor-element-48f6629" data-id="48f6629" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="75296ae" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="1020" height="340" src="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-300x100.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-768x256.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1536x512.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo.png 1800w" sizes="(max-width: 1020px) 100vw, 1020px" />
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-00aaec0 elementor-widget elementor-widget-premium-addon-modal-box" data-id="00aaec0" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-00aaec0" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
+									</div>
+									<div id="premium-modal-00aaec0" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<p><b>IT NETWORKING</b></p>
+												<ul>
+													<li>Data Center</li>
+													<li>Wired Access</li>
+													<li>Wireless Access</li>
+													<li>SD-WAN</li>
+												</ul>
+												<p><b>SERVICE PROVIDER</b></p>
+												<ul>
+													<li>IP Transport</li>
+													<li>Automation</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="elementor-column elementor-col-30 elementor-inner-column elementor-element elementor-element-922d978" data-id="922d978" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="d2ee73f" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img loading="lazy" decoding="async" width="620" height="72" src="{{asset('images/TeksarLabsDC.png')}}" srcset="{{asset('images/TeksarLabsDC.png')}} 821w, {{asset('images/TeksarLabsDC.png')}} 300w, {{asset('TeksarLabsDC.png')}} 768w" sizes="(max-width: 821px) 100vw, 821px" />
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-d80e914 elementor-widget elementor-widget-premium-addon-modal-box" data-id="d80e914" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
+							<div class="elementor-widget-container">
+								<div class="premium-modal-box-container" data-settings='{"trigger":"text"}'>
+									<div class="premium-modal-trigger-container">
+										<span data-toggle="premium-modal" data-target="#premium-modal-d80e914" class="premium-modal-trigger-text">
+											<div>Ver Solución</div>
+										</span>
+									</div>
+									<div id="premium-modal-d80e914" class="premium-modal-box-modal" role="dialog" style="display: none">
+										<div class="premium-modal-box-modal-dialog" data-delay-animation="" data-modal-animation="fadeInDown animated-fast">
+											<div class="premium-modal-box-modal-body">
+												<ul>
+													<li>IMPLEMENTACIÓN DE LOS DATA CENTER CONSTRUIDOS</li>
+													<li>DISEÑO DATA CENTER <sub><h6>(DEFINICIÓN DEL PROYECTO, DISEÑO, CONSTRUCCIÓN E IMPLEMENTACIÓN)<h6><sub></li>
+													<li>CONSULTORÍA <sub><h6>(ESPECIALIZADOS EN LAS ÁREAS ELÉCTRICA, AIRE ACONDICIONADO, CABLEADO Y CUARTOS DE MISIÓN CRITICA)<h6><sub></li>
+													<li>MONITOREO DATA CENTER <sub><h6>(INFRAESTRUCTURA FÍSICA DEL DATA CENTER EN FORMA REMOTA)<h6><sub></li>
+													<li>MANTENIMIENTO A DATA CENTER
+														<ul style="margin-top: 0rem !important">
+															<li><h6>Mantenimientos Preventivos</h6></li>
+															<li><h6>Mantenimientos Predictivos</h6></li>
+															<li><h6>Mantenimientos Correctivos</h6></li>
+														</ul>
+													</li>
+												</ul>
+											</div>
+											<div class="premium-modal-box-modal-footer">
+												<button type="button" class="premium-modal-box-modal-lower-close" data-dismiss="premium-modal">Cerrar</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>		
+		
 		
 					</div>
 		</div>
