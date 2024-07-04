@@ -78,8 +78,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <script type="text/javascript" src="https://veriopoint.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="https://veriopoint.com/wp-json/" /><link rel="alternate" type="application/json" href="https://veriopoint.com/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://veriopoint.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.5.5" />
-<link rel="canonical" href="https://veriopoint.com/" />
-<link rel='shortlink' href='https://veriopoint.com/' />
+<link rel="canonical" href="https://veriopointhn.com/" />
+<link rel='shortlink' href='https://veriopointhn.com/' />
 <link rel="alternate" type="application/json+oembed" href="https://veriopoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fveriopoint.com%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://veriopoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fveriopoint.com%2F&#038;format=xml" />
 <style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="https://veriopoint.com/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://veriopoint.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]--><meta name="generator" content="Powered by Slider Revolution 6.5.19 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
@@ -213,7 +213,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		<ul id="header-contact" class="nav nav-divided nav-uppercase header-contact">
 		
 						<li class="">
-			  <a href="mailto:Informacion@hubsit.com" class="tooltip" title="Informacion@hubsit.com">
+			  <a href="mailto:Informacion@veriopointhn.com" class="tooltip" title="Informacion@veriopointhn.com">
 				  <i class="icon-envelop" style="font-size:16px;"></i>			       <span>
 			       				       </span>
 			  </a>
@@ -1072,7 +1072,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 </div>
 		</div><div id="text-4" class="col pb-0 widget widget_text"><span class="widget-title">Contacto</span><div class="is-divider small"></div>			<div class="textwidget">
 <p>+504 2268-0687</p>
-<p>Informacion@hubsit.com</p>
+<p>Informacion@veriopointhn.com</p>
 </div>
 		</div><div id="text-5" class="col pb-0 widget widget_text"><span class="widget-title">Links</span><div class="is-divider small"></div>			<div class="textwidget"><p>Aviso de Privacidad</p>
 <p>Términos y Condiciones</p>
@@ -1138,7 +1138,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="#servicios">Servicios</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195"><a href="#certificaciones">Certificaciones</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195"><a href="#clientes">Nuestros Clientes</a></li>
-WooCommerce not Found			</ul>
+</ul>
 		
 		
 	</div>
