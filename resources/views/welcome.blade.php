@@ -6,28 +6,24 @@
 <head>
 	<meta charset="UTF-8" />
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="https://veriopoint.com/xmlrpc.php" />
 
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <title>Veriopoint HN</title>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Veriopoint &raquo; Feed" href="https://veriopoint.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Veriopoint &raquo; RSS de los comentarios" href="https://veriopoint.com/comments/feed/" />
-<link rel="prefetch" href="https://veriopoint.com/wp-content/themes/flatsome/assets/js/chunk.countup.fe2c1016.js" />
-<link rel="prefetch" href="https://veriopoint.com/wp-content/themes/flatsome/assets/js/chunk.sticky-sidebar.a58a6557.js" />
-<link rel="prefetch" href="https://veriopoint.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.29144c1c.js" />
-<link rel="prefetch" href="https://veriopoint.com/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.947eca5c.js" />
-<link rel="prefetch" href="https://veriopoint.com/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.c7f2bd49.js" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel="prefetch" href="{{asset('wp-content/js/chunk.countup.fe2c1016.js')}}" />
+<link rel="prefetch" href="{{asset('wp-content/js/chunk.sticky-sidebar.a58a6557.js')}}" />
+<link rel="prefetch" href="{{asset('wp-content/js/chunk.tooltips.29144c1c.js')}}" />
+<link rel="prefetch" href="{{asset('wp-content/js/chunk.vendors-popups.947eca5c.js')}}" />
+<link rel="prefetch" href="{{asset('wp-content/js/chunk.vendors-slider.c7f2bd49.js')}}" />
 <script type="text/javascript">
 /* <![CDATA[ */
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/veriopoint.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 /* ]]> */
 </script>
-<link rel='stylesheet' id='pa-frontend-css' href='https://veriopoint.com/wp-content/uploads/premium-addons-elementor/pa-frontend-81a1b11d7.min.css?ver=1719469334' type='text/css' media='all' />
+<link rel='stylesheet' id='pa-frontend-css' href='{{asset('wp-content/uploads/pa-frontend-81a1b11d7.min.css')}}' type='text/css' media='all' />
 <style id='wp-emoji-styles-inline-css' type='text/css'>
 
 	img.wp-smiley, img.emoji {
@@ -49,44 +45,42 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
 </style>
-<link rel='stylesheet' id='elementor-icons-css' href='https://veriopoint.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://veriopoint.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.8.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-41-css' href='https://veriopoint.com/wp-content/uploads/elementor/css/post-41.css?ver=1667530014' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='https://veriopoint.com/wp-content/uploads/elementor/css/global.css?ver=1667530015' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-2-css' href='https://veriopoint.com/wp-content/uploads/elementor/css/post-2.css?ver=1682650435' type='text/css' media='all' />
-<link rel='stylesheet' id='flatsome-main-css' href='https://veriopoint.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.15.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='{{asset('wp-content/css/elementor-icons.min.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='{{asset('wp-content/css/frontend-lite.min.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='{{asset('wp-content/css/post-41.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='{{asset('wp-content/css/global.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='{{asset('wp-content/css/post-2.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='{{asset('wp-content/css/flatsome.css')}}' type='text/css' media='all' />
 <style id='flatsome-main-inline-css' type='text/css'>
 @font-face {
 				font-family: "fl-icons";
 				font-display: block;
-				src: url({{ asset('css/icons/fl-icons.eot?v=3.15.7)') }};
+				src: url({{ asset('css/icons/fl-icons.eot)') }};
 				src:
-					url({{ asset('icons/fl-icons.eot#iefix?v=3.15.7') }}) format("embedded-opentype"),
-					url({{ asset('icons/fl-icons.woff2?v=3.15.7') }}) format("woff2"),
-					url({{ asset('icons/fl-icons.ttf?v=3.15.7') }}) format("truetype"),
-					url({{ asset('icons/fl-icons.woff?v=3.15.7') }}) format("woff"),
-					url(https://veriopoint.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.15.7#fl-icons) format("svg");
+					url({{ asset('icons/fl-icons.eot') }}) format("embedded-opentype"),
+					url({{ asset('icons/fl-icons.woff2') }}) format("woff2"),
+					url({{ asset('icons/fl-icons.ttf') }}) format("truetype"),
+					url({{ asset('icons/fl-icons.woff') }}) format("woff");
 			}
 </style>
-<link rel='stylesheet' id='flatsome-style-css' href='https://veriopoint.com/wp-content/themes/flatsome/style.css?ver=3.15.7' type='text/css' media='all' />
 <link rel='stylesheet' id='flatsome-googlefonts-css' href='//fonts.googleapis.com/css?family=Lato%3Aregular%2C700%2C400%2C700%7CDancing+Script%3Aregular%2C400&#038;display=swap&#038;ver=3.9' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.5' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='{{asset('css/fontawesome.min.css?ver=5.15.3')}}' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='{{asset('css/regular.min.css?ver=5.15.3')}} type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='{{asset('css/regular.min.css?ver=5.15.3')}}' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='{{asset('css/solid.min.css?ver=5.15.3')}}' type='text/css' media='all' />
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<link rel="https://api.w.org/" href="https://veriopoint.com/wp-json/" /><link rel="alternate" type="application/json" href="https://veriopoint.com/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://veriopoint.com/xmlrpc.php?rsd" />
+<script type="text/javascript" src="{{asset('wp-includes/js/jquery.min.js')}}" id="jquery-core-js"></script>
+<script type="text/javascript" src="{{asset('wp-includes/js/jquery-migrate.min.js')}}" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="{{asset('wp-json/wp-json.json')}}" />
+<link rel="alternate" type="application/json" href="{{asset('wp-json/2.json')}}" /><link rel="EditURI" type="application/rsd+xml" title="RSD" />
 <meta name="generator" content="WordPress 6.5.5" />
 <link rel="canonical" href="https://veriopointhn.com/" />
 <link rel='shortlink' href='https://veriopointhn.com/' />
-<link rel="alternate" type="application/json+oembed" href="https://veriopoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fveriopoint.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://veriopoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fveriopoint.com%2F&#038;format=xml" />
-<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="https://veriopoint.com/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://veriopoint.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]--><meta name="generator" content="Powered by Slider Revolution 6.5.19 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="https://veriopoint.com/wp-content/uploads/2022/09/cropped-icono-veriopoint-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://veriopoint.com/wp-content/uploads/2022/09/cropped-icono-veriopoint-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://veriopoint.com/wp-content/uploads/2022/09/cropped-icono-veriopoint-180x180.png" />
-<meta name="msapplication-TileImage" content="https://veriopoint.com/wp-content/uploads/2022/09/cropped-icono-veriopoint-270x270.png" />
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style>
+<meta name="generator" content="Powered by Slider Revolution 6.5.19 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="{{asset('wp-content/uploads/cropped-icono-veriopoint-32x32.png')}}" sizes="32x32" />
+<link rel="icon" href="{{asset('wp-content/uploads/cropped-icono-veriopoint-192x192.png')}}" sizes="192x192" />
+<link rel="icon" href="{{asset('wp-content/uploads/cropped-icono-veriopoint-180x180.png')}}" sizes="180x180" />
+<link rel="icon" href="{{asset('wp-content/uploads/cropped-icono-veriopoint-270x270.png')}}" sizes="270x270" />
 <script>function setREVStartSize(e){
 			//window.requestAnimationFrame(function() {
 				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
@@ -232,7 +226,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		<i class="icon-search" style="font-size:16px;"></i></a>
 			
 	<div id="search-lightbox" class="mfp-hide dark text-center">
-		<div class="searchform-wrapper ux-search-box relative form-flat is-large"><form method="get" class="searchform" action="http://127.0.0.1:8000/" role="search">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-large">
+			<form method="get" class="searchform" action="/" role="search">
 		<div class="flex-row relative">
 			<div class="flex-col flex-grow">
 	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Escribe tu búsqueda" />
@@ -285,10 +280,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				<rs-module id="rev_slider_1_1" style="" data-version="6.5.19">
 					<rs-slides>
 						<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-in="o:0;" data-out="a:false;">
-							<img fetchpriority="high" decoding="async" src="//veriopoint.com/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="veriopoint-servicios-seguridad-informatica_1.jpeg" width="1920" height="1080" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//veriopoint.com/wp-content/uploads/revslider/video-media/veriopoint-servicios-seguridad-informatica_1.jpeg" data-no-retina>
+							<img fetchpriority="high" decoding="async" src="{{asset('wp-content/uploads/veriopoint-servicios-seguridad-informatica_1.jpeg')}}" alt="" title="veriopoint-servicios-seguridad-informatica_1.jpeg" width="1920" height="1080" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{asset('wp-content/uploads/veriopoint-servicios-seguridad-informatica_1.jpeg')}}" data-no-retina>
 							<rs-bgvideo 
 								data-video="w:100%;h:100%;nse:false;l:true;ptimer:false;vfc:true;"
-								data-mp4="//veriopoint.com/wp-content/uploads/2022/09/veriopoint-servicios-seguridad-informatica.mp4"
+								data-mp4="{{asset('wp-content/uploads/veriopoint-servicios-seguridad-informatica.mp4')}}"
 							></rs-bgvideo>
 <!--
 							--><rs-layer
@@ -440,7 +435,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 								<div class="elementor-element elementor-element-27943ef elementor-widget elementor-widget-image" data-id="27943ef" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.8.0 - 30-10-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="900" height="922" src="https://veriopoint.com/wp-content/uploads/2023/04/civerio-web.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2023/04/civerio-web.png 900w, https://veriopoint.com/wp-content/uploads/2023/04/civerio-web-293x300.png 293w, https://veriopoint.com/wp-content/uploads/2023/04/civerio-web-768x787.png 768w" sizes="(max-width: 900px) 100vw, 900px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												
+<img decoding="async" width="900" height="922" src="{{asset('wp-content/uploads/civerio-web.png')}}" class="attachment-large size-large" alt="" srcset="{{asset('wp-content/uploads/civerio-web.png')}} 900w, {{asset('wp-content/uploads/civerio-web-293x300.png')}} 293w, {{asset('wp-content/uploads/civerio-web-768x787.png')}} 768w" sizes="(max-width: 900px) 100vw, 900px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -533,7 +529,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-bc2a1df elementor-widget elementor-widget-image" data-id="bc2a1df" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="1020" height="285" src="https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1024x286.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1024x286.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-300x84.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-768x215.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo-1536x430.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/infoblox-logo.png 1909w" sizes="(max-width: 1020px) 100vw, 1020px" />
+								<img loading="lazy" decoding="async" width="1020" height="285" src="{{asset('images/infoblox-logo-1024x286.png')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/infoblox-logo-1024x286.png')}} 1024w, {{asset('images/infoblox-logo-300x84.png')}} 300w, {{asset('images/infoblox-logo-768x215.png')}} 768w, {{asset('images/infoblox-logo-1536x430.png')}} 1536w, {{asset('images/infoblox-logo.png')}} 1909w" sizes="(max-width: 1020px) 100vw, 1020px" />
 							</div>
 						</div>
 						<div class="elementor-element elementor-element-4751cf6 elementor-widget elementor-widget-premium-addon-modal-box" data-id="4751cf6" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
@@ -632,7 +628,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-ba8fdc8 elementor-widget elementor-widget-image" data-id="ba8fdc8" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="800" height="234" src="{{asset('images/veritas.svg')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/veritas.svg')}} 800w, {{asset('images/veritas.svg')}} 300w, {{asset('images/pan-logo-dark.svg')}} 768w" sizes="(max-width: 800px) 100vw, 800px" />
+								<img loading="lazy" decoding="async" width="800" height="234" src="{{asset('images/veritas.svg')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/veritas.svg')}} 800w, {{asset('images/veritas.svg')}} 200w, {{asset('images/veritas.svg')}} 768w" sizes="(max-width: 800px) 100vw, 800px" />
 							</div>
 						</div>
 						<div class="elementor-element elementor-element-23fa98a elementor-widget elementor-widget-premium-addon-modal-box" data-id="23fa98a" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
@@ -687,7 +683,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="75296ae" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="1020" height="340" src="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1024x341.png 1024w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-300x100.png 300w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-768x256.png 768w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo-1536x512.png 1536w, https://veriopoint.com/wp-content/uploads/2022/09/junioper-logo.png 1800w" sizes="(max-width: 1020px) 100vw, 1020px" />
+								<img loading="lazy" decoding="async" width="1020" height="340" src="{{asset('images/junioper-logo-1024x341.png')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/junioper-logo-1024x341.png')}} 1024w, {{asset('images/infoblox-logo-junioper-logo-300x100.png')}} 300w, {{asset('images/junioper-logo-768x256.png')}} 768w, {{asset('images/junioper-logo-1536x512.png')}} 1536w, {{asset('images/junioper-logo-junioper-logo.png')}} 1800w" sizes="(max-width: 1020px) 100vw, 1020px" />
 							</div>
 						</div>
 						<div class="elementor-element elementor-element-00aaec0 elementor-widget elementor-widget-premium-addon-modal-box" data-id="00aaec0" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
@@ -728,7 +724,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-75296ae elementor-widget elementor-widget-image" data-id="d2ee73f" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<img loading="lazy" decoding="async" width="620" height="72" src="{{asset('images/TeksarLabsDC.png')}}" srcset="{{asset('images/TeksarLabsDC.png')}} 821w, {{asset('images/TeksarLabsDC.png')}} 300w, {{asset('TeksarLabsDC.png')}} 768w" sizes="(max-width: 821px) 100vw, 821px" />
+								<img loading="lazy" decoding="async" width="620" height="72" src="{{asset('images/TeksarLabsDC.png')}}" srcset="{{asset('images/TeksarLabsDC.png')}} 821w, {{asset('images/TeksarLabsDC.png')}} 293w, {{asset('images/TeksarLabsDC.png')}} 768w" sizes="(max-width: 821px) 100vw, 821px" />
 							</div>
 						</div>
 						<div class="elementor-element elementor-element-d80e914 elementor-widget elementor-widget-premium-addon-modal-box" data-id="d80e914" data-element_type="widget" data-settings='{"premium_modal_box_animation":"fadeInDown"}' data-widget_type="premium-addon-modal-box.default">
@@ -800,7 +796,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a40f182 elementor-widget elementor-widget-image" data-id="a40f182" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="1020" height="680" src="https://veriopoint.com/wp-content/uploads/2022/09/servicios-seguridad-informatica-1024x683.jpg" class="attachment-large size-large" alt="" srcset="https://veriopoint.com/wp-content/uploads/2022/09/servicios-seguridad-informatica-1024x683.jpg 1024w, https://veriopoint.com/wp-content/uploads/2022/09/servicios-seguridad-informatica-300x200.jpg 300w, https://veriopoint.com/wp-content/uploads/2022/09/servicios-seguridad-informatica-768x512.jpg 768w, https://veriopoint.com/wp-content/uploads/2022/09/servicios-seguridad-informatica.jpg 1279w" sizes="(max-width: 1020px) 100vw, 1020px" />															</div>
+					<img loading="lazy" decoding="async" width="1020" height="340" src="{{asset('images/servicios-seguridad-informatica-1024x683.jpg')}}" class="attachment-large size-large" alt="" srcset="{{asset('images/servicios-seguridad-informatica-1024x683.jpg')}} 1024w, {{asset('images/servicios-seguridad-informatica-300x200.jpg')}} 300w, {{asset('images/junioper-logo-768x256.png')}} 768w, {{asset('images/servicios-seguridad-informatica.jpg')}} 1279w" sizes="(max-width: 1020px) 100vw, 1020px" />															
+				</div>
 				</div>
 					</div>
 		</div>
@@ -808,7 +805,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-fe076e0 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="fe076e0" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://veriopoint.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+			<link rel="stylesheet" href="{{asset('wp-content/css/widget-icon-box.min.css')}}">		<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
 				<span class="elementor-icon elementor-animation-" >
 				<i aria-hidden="true" class="fas fa-lock"></i>				</span>
@@ -930,34 +927,34 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 												</style>
 												<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 													<div class="elementor-image-carousel swiper-wrapper">
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-03-px75x4ptr8qishim0tro68qi3j9mplmaquimmmmqyo.png" alt="f5-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-02-px75xr9yb9lej4lud3ipu31kcs6fuc3uty6a59patc.png" alt="f5-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/f5-01-px75yn8grmt5hvbf6hc16uz8jvsx41mqaccsgodwxs.png" alt="f5-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/network-01-px75zdjy2zt6iy96wspl4oc56o773kj7pymdwfaw3k.png" alt="network-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/itil-01-px75ztj7b6f20blzbhm8t2aza80fqfang5pn24n75s.png" alt="itil-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-04-px760lqd07hnomh0qtt1vv6t3s5g5celk1a7gfhdz4.png" alt="check-04" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-03-px761dxip8k9cxc265zuyo2mxcagk9ijnwuruqbksg.png" alt="check-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-02-px76272il3o5cu5qg0lalypxcaau6vq83x2tqb4dfk.png" alt="check-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/check-01-px762ybu3apgpj250udh49uakgkhe3qfvnzwnbzyf4.png" alt="check-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-03-px764t2dkj8tlud7757zjb00qtfjkm3dsubdpz905c.png" alt="infoblox-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-02-px765yf9x8tfsop4hn3kl0kavrrozankmj0qu5jojk.png" alt="infoblox-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/infoblox-01-px7678hd84khlku80p0ah6xvzngoggqf4uzjcpne2o.png" alt="infoblox-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-03-px768fpxyi7ofn3f07p4nw13bdjkaji2mszvffva4g.png" alt="juniper-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-02-px769k504dr0avgpg76353twuy0chiyj4d1r2c7cow.png" alt="juniper-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/juniper-01-px76aok2a9ac63tzw6n1mbmqeih4oiezlx3mp8jf9c.png" alt="juniper-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-03-px76bhp264e860no618h9ma0tghib4mo1xboktc7wg.png" alt="sss-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-02-px76cgh36zpu3l95iy9obvi2spq37xgqipgnc1wni8.png" alt="sss-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/sss-01-px76dh4slj40odrwkw44j491yqpek4i9nqwl1ueark.png" alt="sss-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-06-px76eq91pkts5nyd9fm7usv6h8j0tlhdty7w34jegw.png" alt="fortinet-06" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-05-px76g8ropywev1r6f36kvf3wxl2b81htdg21x6akg0.png" alt="fortinet-05" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-04-px76hzqvfvamgx7p7cel0h7sqefwjrfty3rl2pp6v4.png" alt="fortinet-04" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-03-px76j6zg68xtazgw6v3f76b024isdu7hg1rx5fx2ww.png" alt="fortinet-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-02-px76kok8zsz5orb2i095nas9x36pkl46neyli7pn28.png" alt="fortinet-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/fortinet-01-px76m9wekp5ncyzs771edebe5lc3m4ft7ar7s3cmio.png" alt="fortinet-01" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-04-px76nak3z8jtxrij94vukn2dbmbeybhccc75hvu9s0.png" alt="a10-04" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-03-px76ob7tdry0ik1ab2qarvtchnaqaiivhdn37obx1c.png" alt="a10-03" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-02-px76p5angh36u2tlffqczo83hz6h4tua9iimkj3bi8.png" alt="a10-02" /></figure></div>
-														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://veriopoint.com/wp-content/uploads/elementor/thumbs/a10-01-px76qcj86uqdo52seyf76dbatp9cywlxrgiyn9b7k0.png" alt="a10-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/f5-03-px75x4ptr8qishim0tro68qi3j9mplmaquimmmmqyo.png')}}" alt="f5-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/f5-02-px75xr9yb9lej4lud3ipu31kcs6fuc3uty6a59patc.png')}}" alt="f5-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/f5-01-px75yn8grmt5hvbf6hc16uz8jvsx41mqaccsgodwxs.png')}}" alt="f5-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/network-01-px75zdjy2zt6iy96wspl4oc56o773kj7pymdwfaw3k.png')}}" alt="network-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/itil-01-px75ztj7b6f20blzbhm8t2aza80fqfang5pn24n75s.png')}}" alt="itil-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/check-04-px760lqd07hnomh0qtt1vv6t3s5g5celk1a7gfhdz4.png')}}" alt="check-04" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/check-03-px761dxip8k9cxc265zuyo2mxcagk9ijnwuruqbksg.png')}}" alt="check-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/check-02-px76272il3o5cu5qg0lalypxcaau6vq83x2tqb4dfk.png')}}" alt="check-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/check-01-px762ybu3apgpj250udh49uakgkhe3qfvnzwnbzyf4.png')}}" alt="check-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/infoblox-03-px764t2dkj8tlud7757zjb00qtfjkm3dsubdpz905c.png')}}" alt="infoblox-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/infoblox-02-px765yf9x8tfsop4hn3kl0kavrrozankmj0qu5jojk.png')}}" alt="infoblox-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/infoblox-01-px7678hd84khlku80p0ah6xvzngoggqf4uzjcpne2o.png')}}" alt="infoblox-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/juniper-03-px768fpxyi7ofn3f07p4nw13bdjkaji2mszvffva4g.png')}}" alt="juniper-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/juniper-02-px769k504dr0avgpg76353twuy0chiyj4d1r2c7cow.png')}}" alt="juniper-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/juniper-01-px76aok2a9ac63tzw6n1mbmqeih4oiezlx3mp8jf9c.png')}}" alt="juniper-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/sss-03-px76bhp264e860no618h9ma0tghib4mo1xboktc7wg.png')}}" alt="sss-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/sss-02-px76cgh36zpu3l95iy9obvi2spq37xgqipgnc1wni8.png')}}" alt="sss-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/sss-01-px76dh4slj40odrwkw44j491yqpek4i9nqwl1ueark.png')}}" alt="sss-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/fortinet-06-px76eq91pkts5nyd9fm7usv6h8j0tlhdty7w34jegw.png')}}" alt="fortinet-06" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/fortinet-05-px76g8ropywev1r6f36kvf3wxl2b81htdg21x6akg0.png')}}" alt="fortinet-05" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/fortinet-04-px76hzqvfvamgx7p7cel0h7sqefwjrfty3rl2pp6v4.png')}}" alt="fortinet-04" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/fortinet-03-px76j6zg68xtazgw6v3f76b024isdu7hg1rx5fx2ww.png')}}" alt="fortinet-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/fortinet-02-px76kok8zsz5orb2i095nas9x36pkl46neyli7pn28.png')}}" alt="fortinet-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/fortinet-01-px76m9wekp5ncyzs771edebe5lc3m4ft7ar7s3cmio.png')}}" alt="fortinet-01" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/a10-04-px76nak3z8jtxrij94vukn2dbmbeybhccc75hvu9s0.png')}}" alt="a10-04" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/a10-03-px76ob7tdry0ik1ab2qarvtchnaqaiivhdn37obx1c.png')}}" alt="a10-03" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/a10-02-px76p5angh36u2tlffqczo83hz6h4tua9iimkj3bi8.png')}}" alt="a10-02" /></figure></div>
+														<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="{{asset('images/thumbs/a10-01-px76qcj86uqdo52seyf76dbatp9cywlxrgiyn9b7k0.png')}}" alt="a10-01" /></figure></div>
 													</div>
 													<div class="swiper-pagination"></div>
 												</div>
@@ -1120,7 +1117,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					<ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
 				<li class="header-search-form search-form html relative has-icon">
 	<div class="header-search-form-wrapper">
-		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form method="get" class="searchform" action="https://veriopoint.com/" role="search">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form method="get" class="searchform" action="https://veriopointhn.com/" role="search">
 		<div class="flex-row relative">
 			<div class="flex-col flex-grow">
 	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Escribe tu búsqueda" />
@@ -1155,39 +1152,73 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <style id='global-styles-inline-css' type='text/css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
-<link rel='stylesheet' id='e-animations-css' href='https://veriopoint.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.8.0' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css' href='https://veriopoint.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.19' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animations-css' href='{{asset('wp-content/css/animations.min.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='{{asset('wp-content/css/rs6.css')}}' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<script type="text/javascript" id="pa-frontend-js-extra">
-/* <![CDATA[ */
-var PremiumSettings = {"ajaxurl":"https:\/\/veriopoint.com\/wp-admin\/admin-ajax.php","nonce":"e41b05d3ba"};
-/* ]]> */
 </script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/uploads/premium-addons-elementor/pa-frontend-81a1b11d7.min.js?ver=1719469334" id="pa-frontend-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18" defer async id="tp-tools-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.19" defer async id="revmin-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.15.7" id="flatsome-live-search-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/pa-frontend-81a1b11d7.min.js')}}" id="pa-frontend-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/rbtools.min.js')}}" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/rs6.min.js')}}" defer async id="revmin-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/flatsome-live-search.js')}}" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="{{asset('wp-includes/js/wp-polyfill-inert.min.js')}}" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="{{asset('wp-includes/js/regenerator-runtime.min.js')}}" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="{{asset('wp-includes/js/wp-polyfill.min.js')}}" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="{{asset('wp-includes/js/hoverIntent.min.js')}}" id="hoverIntent-js"></script>
 <script type="text/javascript" id="flatsome-js-js-extra">
+
 /* <![CDATA[ */
-var flatsomeVars = {"theme":{"version":"3.15.7"},"ajaxurl":"https:\/\/veriopoint.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","assets_url":"https:\/\/veriopoint.com\/wp-content\/themes\/flatsome\/assets\/js\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+var flatsomeVars = {
+    "theme": {
+        "version": "3.15.7"
+    },
+    "rtl": "",
+    "sticky_height": "70",
+    "assets_url": "wp-content/js/",
+    "lightbox": {
+        "close_markup": `
+            <button title="%title%" type="button" class="mfp-close">
+                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>`,
+        "close_btn_inside": false
+    },
+    "user": {
+        "can_edit_pages": false
+    },
+    "i18n": {
+        "mainMenu": "Main Menu",
+        "toggleButton": "Toggle"
+    },
+    "options": {
+        "cookie_notice_version": "1",
+        "swatches_layout": false,
+        "swatches_box_select_event": false,
+        "swatches_box_behavior_selected": false,
+        "swatches_box_update_urls": "1",
+        "swatches_box_reset": false,
+        "swatches_box_reset_extent": false,
+        "swatches_box_reset_time": 300,
+        "search_result_latency": "0"
+    }
+};
 /* ]]> */
+
+
 </script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=2ba06bae7e21001b4413f16ac4e08981" id="flatsome-js-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/flatsome.js')}}" id="flatsome-js-js"></script>
 <!--[if IE]>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/intersection-observer-polyfill@0.1.0/dist/IntersectionObserver.js?ver=0.1.0" id="intersection-observer-polyfill-js"></script>
 <![endif]-->
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/modal.min.js?ver=4.9.36" id="pa-modal-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.9.36" id="lottie-js-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.8.0" id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.8.0" id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="https://veriopoint.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/modal.min.js')}}" id="pa-modal-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/waypoints.min.js')}}" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/lottie.min.js')}}" id="lottie-js-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/webpack.runtime.min.js')}}" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/frontend-modules.min.js')}}" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="{{asset('wp-includes/js/core.min.js')}}" id="jquery-ui-core-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
 var elementorFrontendConfig = {
@@ -1281,7 +1312,7 @@ var elementorFrontendConfig = {
         "admin-top-bar": true
     },
     "urls": {
-        "assets": "https://veriopoint.com/wp-content/plugins/elementor/assets/"  // URL base para activos
+        "assets": "wp-content/"  // URL base para activos
     },
     "settings": {
         "page": [],            // Configuraciones de página (vacías en este caso)
@@ -1306,7 +1337,7 @@ var elementorFrontendConfig = {
 };
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://veriopoint.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.0" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="{{asset('wp-content/js/frontend.min.js')}}" id="elementor-frontend-js"></script>
 <script id="rs-initialisation-scripts">
 		var	tpj = jQuery;
 
