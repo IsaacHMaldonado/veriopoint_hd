@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    background-color: #333;
+    background-color: #E0F7FA;
     color: #fff;
     padding: 1rem;
 }
@@ -36,6 +36,6 @@ body {
 }
 
 .nav-links a:hover {
-    background-color: #575757;
+    background-color: #E0F7FA;
     border-radius: 4px;
 }
