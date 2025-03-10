@@ -442,13 +442,13 @@
     </style>
     <meta name="generator"
         content="Powered by Slider Revolution 6.5.19 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopoint-32x32.png') }}"
+    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopointhn-32x32.png') }}?v=1"
         sizes="32x32" />
-    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopoint-192x192.png') }}"
+    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopointhn-192x192.png') }}?v=1"
         sizes="192x192" />
-    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopoint-180x180.png') }}"
+    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopointhn-180x180.png') }}?v=1"
         sizes="180x180" />
-    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopoint-270x270.png') }}"
+    <link rel="icon" href="{{ asset('wp-content/uploads/cropped-icono-veriopointhn-270x270.png') }}?v=1"
         sizes="270x270" />
     <script>
         function setREVStartSize(e) {
@@ -2596,10 +2596,10 @@
             <div class="footer-widgets footer footer-1">
                 <div class="row dark large-columns-4 mb-0">
                     <div id="media_image-3" class="col pb-0 widget widget_media_image"><img width="123"
-                            height="150" src="{{ asset('images/veriopoint-alpha.png') }}"
+                            height="150" src="{{ asset('images/veriopointhn-alpha.png') }}"
                             class="image wp-image-10  attachment-123x150 size-123x150" alt="logo veriopoint balnco"
                             style="max-width: 100%; height: auto;" decoding="async" loading="lazy"
-                            srcset="{{ asset('images/veriopoint-alpha.png') }} 247w, {{ asset('images/veriopoint-alpha.png') }} 768w, {{ asset('images/veriopoint-alpha.png') }} 820w"
+                            srcset="{{ asset('images/veriopointhn-alpha.png') }} 247w, {{ asset('images/veriopointhn-alpha.png') }} 768w, {{ asset('images/veriopointhn-alpha.png') }} 820w"
                             sizes="(max-width: 123px) 100vw, 123px" /></div>
                     <div id="text-3" class="col pb-0 widget widget_text"><span
                             class="widget-title">Dirección</span>
